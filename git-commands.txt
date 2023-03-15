@@ -1,0 +1,342 @@
+  274  vim-airline-themes/kinetic,kinetic 0+git.20220712-55bad92-1 all
+  279  vim-bitbake/kinetic,kinetic 0~git20220408-2 all
+  285  vim-fugitive/kinetic,kinetic 3.7-1 all
+  286  vim-git-hub/kinetic,kinetic 2.1.3-1 all
+  287  vim-gitgutter/kinetic,kinetic 0~20200414-2 all
+  293  vim-julia/kinetic,kinetic 0.0~git20211208.e497299-1 all
+  305  vim-puppet/kinetic,kinetic 4~20181115+git4793b074-2 all
+  313  vim-solarized/kinetic,kinetic 0~git110509-3 all
+  325  vim-vader/kinetic,kinetic 0.3.0+git20200213.6fff477-2 all
+  326  vim-vimerl-syntax/kinetic,kinetic 1.4.1+git20120509.89111c7-2.1 all
+  327  vim-vimerl/kinetic,kinetic 1.4.1+git20120509.89111c7-2.1 all
+  329  vim-youcompleteme/kinetic,kinetic 0+20220402+git3ededae+ds-4 all
+  332  vimix/kinetic 0.7.0+git20220523+ds-3 amd64
+  344  virtaal/kinetic,kinetic 0.7.1+git20191021+ds1-2 all
+  386  vistrails/kinetic,kinetic 3.0~git+9dc22bd-4 all
+  392  vite/kinetic 1.2+svn+git4.c6c0ce7-5 amd64
+  394  vitrage-api/kinetic,kinetic 9.0.0+git2022100608.43e8e5f1-0ubuntu1 all
+  395  vitrage-collector/kinetic,kinetic 9.0.0+git2022100608.43e8e5f1-0ubuntu1 all
+  396  vitrage-common/kinetic,kinetic 9.0.0+git2022100608.43e8e5f1-0ubuntu1 all
+  397  vitrage-doc/kinetic,kinetic 9.0.0+git2022100608.43e8e5f1-0ubuntu1 all
+  398  vitrage-graph/kinetic,kinetic 9.0.0+git2022100608.43e8e5f1-0ubuntu1 all
+  399  vitrage-ml/kinetic,kinetic 9.0.0+git2022100608.43e8e5f1-0ubuntu1 all
+  400  vitrage-notifier/kinetic,kinetic 9.0.0+git2022100608.43e8e5f1-0ubuntu1 all
+  401  vitrage-persistor/kinetic,kinetic 9.0.0+git2022100608.43e8e5f1-0ubuntu1 all
+  402  vitrage-snmp-parsing/kinetic,kinetic 9.0.0+git2022100608.43e8e5f1-0ubuntu1 all
+  469  voltron/kinetic,kinetic 0.1.7+git20200109-2 all
+  473  volumeicon-alsa/kinetic 0.5.1+git20170117-1build2 amd64
+  499  vpnc-scripts/kinetic,kinetic 0.1~git20220510-1 all
+  500  vpnc/kinetic 0.5.3+git20220503-1 amd64
+  562  w3m-img/kinetic-updates,kinetic-security 0.5.3+git20220429-1ubuntu0.1 amd64
+  563  w3m-img/kinetic-updates,kinetic-security 0.5.3+git20220429-1ubuntu0.1 i386
+  564  w3m/kinetic-updates,kinetic-security 0.5.3+git20220429-1ubuntu0.1 amd64
+  565  w3m/kinetic-updates,kinetic-security 0.5.3+git20220429-1ubuntu0.1 i386
+  572  wait-for-it/kinetic,kinetic 0.0~git20180723-1 all
+  596  wasi-libc/kinetic,kinetic 0.0~git20210922.ad51334-1 all
+  671  webext-dav4tbsync/kinetic,kinetic 2.0.2~git20210801+08e4df1da-3 all
+  672  webext-eas4tbsync/kinetic,kinetic 2.0.1~git20210802+2a2a67098-2 all
+  782  git -v
+  784  git -v
+  788  git -v
+  814  cd gitTestproj
+  817  mkdir gitTest
+  818  cd gitTest
+  820  git init
+  821  git add README.md
+  822  git add READ.md
+  823  git status -s
+  824  git commit -m "first commit"
+  825  git branch -M main
+  826  git remote add origin https://github.com/AdrianeYves/testconnection.git
+  827  git push -u origin main
+  828  git config --global -e
+  829  git config -l
+  830  git clone https://github.com/AdrianeYves/testconnection.git
+  832  git pull
+  833  git pull origin master
+  834  git push -u origin main
+  836  git status -s
+  837  git add .
+  838  git add bro.txt
+  839  git status -s
+  840  git commit -m "HAHA this is my second commit test message, not a real good description tho f you"
+  841  git push -u origin main
+  842  git log
+  843  git revert
+  844  git revert HEAD~1
+  845  git push -u origin main
+  846  git log
+  849  git commit -am "test num3"
+  850  git add.
+  851  git add .
+  862  git add subd1/.
+  865  git commit -m "fuk yu is my name"
+  866  git status
+  867  open gitTest
+  869  git push -u origin main
+  870  git pull
+  871  git clone --help
+  872  git clone'
+  873  git clone https://github.com/AdrianeYves/testconnection.git
+  874  git push origin -u main
+  875  git add
+  876  git add .
+  877  git config -e
+  878  git init
+  879  git status -s
+  880  git add .
+  881  git status -s
+  882  git commit -m "testing from vscode"
+  883  git status
+  884  git push origin -u main
+  885  git push
+  886  git push https://github.com/AdrianeYves/testconnection.git
+  887  git config --global -e
+  888  git status
+  889  git branch -M main
+  890  git remote add origin https://github.com/AdrianeYves/testconnection.git
+  891  git push -u origin main
+  892  git pull origin
+  893  git add .
+  894  git status
+  895  git push origin
+  896  git push -u origin main
+  897  git pull -u origin main
+  898  git pull origin main
+  899  git push -u origin main
+  900  git branch
+  901  git checkout main
+  902  git branch -b <sub-branch-name>
+  903  git branch -b subbracnhtest
+  904  git branch newtest
+  905  git pull origin
+  906  git pull origin newtest
+  907  git branch -a
+  908  git branch switch newtest
+  909  git branch checkout
+  910  git branch -a
+  911  git checkout newtest
+  912  git pull origin newtest
+  913  git pull origin 
+  914  git pull
+  915  git pull https://github.com/AdrianeYves/testconnection.git newtest
+  916  git branch -r
+  917  git branch ls
+  918  git branch -ls
+  919  git branch -a
+  920  git push --setupstream origin newtest
+  921  git push --set-upstream origin newtest
+  922  git status
+  923  git commit -a
+  924  git add testconnection
+  925  git status
+  926  git add bro.txt
+  927  git add testconnection/subd1/bro.txt
+  928  git add yeet.txt
+  929  git push
+  930  git pull
+  931  git status -s
+  932  git add /home/adriane/Desktop/ClonedGitFolder/testconnection/subd1/bro.txt
+  933  git submodule update --init
+  934  git add yeet.txt
+  937  git add text1.txt
+  938  git status -s
+  939  git commit -m "test"
+  940  git push
+  941  git branch switch newtest
+  942  git checkout newtest
+  943  git branch -d --help
+  944  git branch -d switch
+  945  git branch -a
+  946  git branch -d ls
+  948  git status -a
+  949  git status -s
+  950  git push
+  951  git commit -m "test move"
+  952  git add bro.txt
+  953  git clone
+  954  git pull
+  955  git push
+  956  git commit
+  957  git commit -a
+  958  git add .
+  959  git commit
+  960  git push
+  961  git commit
+  962  git push
+  963  git commit -m "test"
+  964  git push
+  965  git status -a
+  966  git status
+  967  git checkout main
+  968  git pull
+  969  git pull origin main
+  970  git pull origin -u main
+  971  git pull -u origin main
+  972  git pull origin main
+  973  git branch
+  974  git branch -d checkout
+  975  git branch
+  976  git pull origin main
+  977  git config --global pull.rebase false
+  978  git pull origin main
+  979  git config --global pull.rebase true
+  980  git pull
+  981  git pull origin main
+  982  git checkout newtest
+  983  git branch main
+  984  git checkout main
+  985  git checkout newtest
+  986  git pull origin main
+  987  git branch
+  988  git checkout main
+  989  git checkout newtest
+  990  git add .
+  991  git commit -m "new cluttured bunch of copies:
+  992  git commit -m "new clutted bunch of copies"
+  993  git checkout main
+  994  git pull
+  995  git pull origin newtest
+  996  git pull origin main
+  997  git config --global -e
+  998  git pull origin newtest
+  999  git config --global pull.rebase false
+ 1000  git config --global -e
+ 1001  git pull origin newtest
+ 1002  git merge --allow-unrelated-histories newtest
+ 1003  git checkout newtest
+ 1004  git checkout main
+ 1005  git commit - "added new 5-9txt"
+ 1006  git add .
+ 1007  git commit -m "added new text 5-9"
+ 1008  git checkout main
+ 1009  git checkout newtest
+ 1010  git commit -m "test"
+ 1011  git checkout newtest
+ 1012  git checkout main
+ 1013  git add .
+ 1014  git commit -m "hura"
+ 1015  git log
+ 1016  git push
+ 1017  git push --set-upstream origin main
+ 1018  git checkout newtest
+ 1019  git push origin newtest
+ 1020  git pull
+ 1021  git clone origin
+ 1022  git pull origin main
+ 1023  git config git add .
+ 1024  git commit -m "new commit"
+ 1025  git status -s
+ 1026  git stataus
+ 1027  git status
+ 1028  git checkout main
+ 1029  git checkout newtest
+ 1030  git branch
+ 1031  git push origin newtest
+ 1032  git push origin main
+ 1033  git push
+ 1034  git checkout main
+ 1035  git pull origin newtest
+ 1036  git config -e
+ 1037  git config --global -e
+ 1038  git push
+ 1039  git status -s
+ 1040  git status
+ 1041  git pull origin newtest
+ 1042  git fetch origin newtest
+ 1043  git push
+ 1044  git commit -m "test"
+ 1045  git add .
+ 1046  git commit -m "test"
+ 1047  git push
+ 1048  git checkout newtest
+ 1049  git add .
+ 1050  git commit -m "new"
+ 1051  git status
+ 1052  git push
+ 1053  git pull origin main
+ 1054  git fetch origin main
+ 1055  git push
+ 1056  git pull origin main
+ 1057  git pull
+ 1058  git push
+ 1059  git add .
+ 1060  git status
+ 1061  git commit -m "test"
+ 1062  git push
+ 1063  git pull origin main
+ 1065  history | grep git > git-commands.txt
+ 1066  git push origin -u main
+ 1067  git checkout newtest
+ 1068  git push
+ 1069  git pull origin main
+ 1070  git pull origin newtest
+ 1071  git push --set-upstream origin newtest
+ 1072  git push --set-upstream origin main
+ 1073  git commit 
+ 1074  git add commands.txt
+ 1075  git status
+ 1076  git commit -m "newtest"
+ 1077  git status
+ 1078  git push 
+ 1079  git pull
+ 1080  git merge --allow-unrelated-histories newtest
+ 1081  git merge --allow-unrelated-histories main
+ 1082  git checkout main
+ 1083  git status
+ 1084  git pull
+ 1085  git pull origin newtest
+ 1086  git merge --allow-unrelated-histories main
+ 1087  git push
+ 1088  git pull origin -u main
+ 1089  git push origin main
+ 1090  git add .
+ 1091  git commit -m "new new new"
+ 1092  git push
+ 1093  git check out newtest
+ 1094  git checkout newtest
+ 1095  git pull origin main
+ 1096  git clone origin
+ 1097  git pull origin main
+ 1098  git clone https://github.com/AdrianeYves/testconnection
+ 1210  git clone http://github.com/Yoders/nolabel
+ 1211  git status -r
+ 1212  git status -s
+ 1213  git checkout new
+ 1214  git init
+ 1215  git checkout new
+ 1216  git add . 
+ 1217  git status -s
+ 1218  git commit -m "first commit"
+ 1219  git status -s
+ 1220  git checkout new
+ 1221  git branch -M new
+ 1222  git push origin -u origin new
+ 1223  git remote add origin https://github.com/Yoders/nolabel
+ 1224  git push origin -u origin new
+ 1225  git branch -M new
+ 1226  git branch
+ 1227  git push origin -u origin new
+ 1228  git add .
+ 1229  git commit -m "test"
+ 1230  git config -e 
+ 1231  git config gloabal -e
+ 1232  git config global -e
+ 1233  git pull origin
+ 1234  git push origin -u origin new
+ 1235  git push -u origin new
+ 1236  git add .
+ 1237  git status -s
+ 1238  git add "app copy 2.js"
+ 1239  git add appcopy2.js
+ 1241  git add appcopy2.js
+ 1242  git status
+ 1243  git commit -m "testing"
+ 1244  git push -u origin new
+ 1245  git push -u origin
+ 1246  git add .
+ 1247  git commit -m "side hassle"
+ 1248  git push -u origin
+ 1249  git log > log.txt
+ 1250  istory | grep git > git-commands.txt
+ 1251  history | grep git > git-commands.txt
